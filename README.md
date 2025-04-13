@@ -21,14 +21,6 @@ This is a simple e-commerce shop built using React and FakeStoreAPI. It includes
 - FakeStore API
 - Plain CSS
 
-## 📸 Screenshots
-
-![Home](screenshots/home.png)
-![Product Detail](screenshots/product-detail.png)
-![Cart](screenshots/cart.png)
-
-> Add your screenshots inside a `screenshots/` folder for visuals.
-
 ## ⚙️ Installation
 
 ```bash
